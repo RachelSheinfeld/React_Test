@@ -2,7 +2,9 @@ import React from 'react'
 
 const All_Task = () => {
   return (
-    <div>All_Task</div>
+    <div>
+        כל המשימות יופיעו כאן
+    </div>
   )
 }
 

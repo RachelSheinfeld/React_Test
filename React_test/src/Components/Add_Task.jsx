@@ -1,9 +1,17 @@
 import React from 'react'
+import { useState } from 'react'
 
 const Add_Task = () => {
-  return (
-    <div>Add_Task</div>
-  )
-}
 
+    return (
+        <div>
+            <form>
+                טופס של הוספת משימה
+            </form>
+        </div>
+    )
+}
 export default Add_Task
+
+
+
